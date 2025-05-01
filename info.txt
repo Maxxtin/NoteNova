@@ -1,0 +1,127 @@
+**Landing Page Content for Visual Note-Taking App**
+
+---
+
+**Navbar Items:**
+- Home
+- Features
+- Workflow
+- Demo
+- Testimonials
+- Pricing
+- Team
+- Blog
+- Contact
+
+---
+
+**Hero Section:**
+- **Headline:** Touch Infinity—One Note at a Time
+- **Tagline:** Visualize your thoughts. Connect the unseen. Discover patterns that spark insight.
+- **Description:** Capture each fleeting idea and watch them interweave into a galaxy of connections—right in your browser.
+- **Primary CTA Button:** Start Capturing
+- **Secondary CTA Button:** Learn More
+
+---
+
+**Features Section:**
+1. **Note Editor**  
+   Capture, edit, and format your thoughts with clarity.
+2. **Keyword Management**  
+   Define and color-code custom tags to organize your ideas.
+3. **Auto-Tagging**  
+   Let the app intelligently detect keywords from your notes.
+4. **Graph View**  
+   Visualize relationships in a dynamic, interactive graph.
+
+---
+
+**Workflow Section (How It Works):**
+1. **Write** – Jot down your idea the moment it strikes.
+2. **Tag** – Assign or auto-detect keywords to color-code your note.
+3. **Connect** – Watch notes link instantly in the graph view.
+4. **Explore** – Discover new insights hidden in your thought network.
+
+---
+
+**Demo Section:**
+- Title: Live Demo
+- Subtitle: Experience Visual Notes in action—no sign-up required.
+- Placeholder: [Interactive Demo Placeholder]
+
+---
+
+**Testimonials Section:**
+- "Visual Notes transformed my brainstorming sessions into clear, actionable ideas." — UX Designer
+- "I uncover connections I never noticed before—every note sparks a new insight." — Product Manager
+- "A must-have tool for any creative professional—private, powerful, and beautiful." — Creative Lead
+
+---
+
+**Stats Section:**
+- 12,345 Notes Taken
+- 2,789 Keywords Defined
+- 8,901 Connections Created
+- 5,432 Active Users
+
+---
+
+**Pricing Section:**
+1. **Free Plan**
+   - Up to 100 notes
+   - Unlimited keywords
+   - Graph view
+   - Local storage only
+2. **Pro Plan ($9/month)**
+   - Unlimited notes
+   - Cloud sync
+   - Advanced filtering
+   - Priority support
+3. **Enterprise Plan**
+   - Team collaboration
+   - Single sign-on
+   - Dedicated support
+   - Custom integrations
+
+---
+
+**Team Section:**
+- Alice Chen – Founder & CEO
+- Ravi Patel – CTO
+- María Gómez – Lead Designer
+- Ethan Wang – Product Manager
+- Sophia Lee – Frontend Engineer
+
+---
+
+**Integrations Section:**
+- Notion
+- Obsidian
+- Roam Research
+- Evernote
+
+---
+
+**Blog Section:**
+- Title: Insights & Updates
+- Subtitle: Stay in the loop with our latest articles
+
+---
+
+**Contact Section:**
+- Title: Get in Touch
+- Subtitle: Questions? Feedback? We’d love to hear from you.
+
+---
+
+**Trial Section:**
+- Title: Start Your Free Plan Today
+- Subtitle: Free forever—up to 100 notes. Upgrade anytime.
+- CTA Button: Get Started
+
+---
+
+**Footer:**
+- Social icons
+- © 2025 Visual Notes Inc. All rights reserved.
+

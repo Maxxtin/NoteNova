@@ -11,11 +11,11 @@
 
 @font-face {
     font-family: 'bootstrapThemesCo-icon';
-    src:    url('../fonts/bootstrapThemesCo-icon.eot%3Fdcpptv');
-    src:    url('../fonts/bootstrapThemesCo-icon.eot%3Fdcpptv') format('embedded-opentype'),
-        url('../fonts/bootstrapThemesCo-icon.ttf%3Fdcpptv') format('truetype'),
-        url('../fonts/bootstrapThemesCo-icon.woff%3Fdcpptv') format('woff'),
-        url('../fonts/bootstrapThemesCo-icon.svg%3Fdcpptv') format('svg');
+    src:    url('../fonts/bootstrapThemesCo-icon.eot?dcpptv');
+    src:    url('../fonts/bootstrapThemesCo-icon.eot?dcpptv#iefix') format('embedded-opentype'),
+        url('../fonts/bootstrapThemesCo-icon.ttf?dcpptv') format('truetype'),
+        url('../fonts/bootstrapThemesCo-icon.woff?dcpptv') format('woff'),
+        url('../fonts/bootstrapThemesCo-icon.svg?dcpptv#bootstrapThemesCo-icon') format('svg');
     font-weight: normal;
     font-style: normal;
 }
